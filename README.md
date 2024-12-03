@@ -8,3 +8,5 @@
 ## M3U Liste Kontrol
 
 - [pawanpaudel93/m3u_parser](https://github.com/pawanpaudel93/m3u_parser)
+
+## Bu proje @keyiflerolsun'un projesi olup @darkervip kendi halinde geliştiriyordur.
