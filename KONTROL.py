@@ -1,4 +1,4 @@
-# ! Bu araç @keyiflerolsun tarafından | @KekikAkademi için yazılmıştır.
+# Ben @darkervip , @keyiflerolsun'un projesini belirli bir alana taşıyıp geliştiriyorum.
 
 from Kekik.cli    import konsol
 from Kekik        import satir_ekle
@@ -57,8 +57,8 @@ class IPTVParser:
         satir_ekle(self.HATALAR, """
 ***
 
-> # [![Yayın Kontrolü](https://github.com/keyiflerolsun/IPTV_YenirMi/actions/workflows/Kontrol.yml/badge.svg)](https://github.com/keyiflerolsun/IPTV_YenirMi/actions/workflows/Kontrol.yml)
-> ### [Kanallar/KekikAkademi.m3u](https://github.com/keyiflerolsun/IPTV_YenirMi/blob/main/Kanallar/KekikAkademi.m3u)
+> # [![Yayın Kontrolü](https://github.com/darkervip/iptvdarker/actions/workflows/Kontrol.yml/badge.svg)](https://github.com/darkervip/iptvdarker/actions/workflows/Kontrol.yml)
+> ### [Kanallar/darkervip.m3u](https://github.com/darkervip/iptvdarker/blob/main/Kanallar/darkervip.m3u)
 
 ***
 
@@ -101,5 +101,5 @@ class IPTVParser:
         self.kanallar_kontrol()
 
 if __name__ == "__main__":
-    parser = IPTVParser("Kanallar/KekikAkademi.m3u")
+    parser = IPTVParser("Kanallar/darkervip.m3u")
     parser.run()

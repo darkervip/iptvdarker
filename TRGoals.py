@@ -1,4 +1,4 @@
-# ! Bu araç @keyiflerolsun tarafından | @KekikAkademi için yazılmıştır.
+# Ben @darkervip , @keyiflerolsun'un projesini belirli bir alana taşıyıp geliştiriyorum.
 
 from Kekik.cli import konsol
 from httpx     import Client
@@ -103,5 +103,5 @@ class TRGoals:
             dosya.write(yeni_m3u_icerik)
 
 if __name__ == "__main__":
-    guncelleyici = TRGoals("Kanallar/KekikAkademi.m3u")
+    guncelleyici = TRGoals("Kanallar/darkervip.m3u")
     guncelleyici.m3u_guncelle()

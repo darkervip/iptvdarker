@@ -1,4 +1,4 @@
-# Bu araç @keyiflerolsun tarafından | @KekikAkademi için yazılmıştır.
+# Ben @darkervip , @keyiflerolsun'un projesini belirli bir alana taşıyıp geliştiriyorum.
 
 name: Domain Değişiklik Kontrolü
 
@@ -13,8 +13,7 @@ on:
 
 jobs:
   DomainKontrol:
-    #runs-on: ubuntu-latest
-    runs-on: self-hosted
+    runs-on: ubuntu-latest
 
     env:
       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

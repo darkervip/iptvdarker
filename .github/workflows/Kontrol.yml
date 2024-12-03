@@ -14,12 +14,11 @@ on:
     paths:
       - KONTROL.py
       - .github/workflows/Kontrol.yml
-      - Kanallar/KekikAkademi.m3u
+      - Kanallar/darkervip.m3u
 
 jobs:
   YayinKontrol:
-    #runs-on: ubuntu-latest
-    runs-on: self-hosted
+    runs-on: ubuntu-latest
 
     env:
       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
