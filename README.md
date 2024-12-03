@@ -1,4 +1,4 @@
-# DarkerVip IPTV
+# IPTV
 - [Tıkla](https://raw.githubusercontent.com/darkervip/iptvdarker/main/Kanallar/darkervip.m3u)
 
 ## Hazır M3U Aynalama
