@@ -135,27 +135,63 @@ https://g0.trgoalshls26.cfd/yayinsmarts.m3u8
 https://g0.trgoalshls26.cfd/yayinsms2.m3u8
 
 # * » YEDEK Spor « * #
-#EXTINF:0,beIN SP0RT 1 
-http://vps-29faf38e.vps.ovh.net:8080/39Emilrashkov@/Rashkovemil/361367
-#EXTINF:0,beIN SP0RT 2 
-http://vps-29faf38e.vps.ovh.net:8080/39Emilrashkov@/Rashkovemil/289
-#EXTINF:0,beIN SP0RT 3 
-http://vps-29faf38e.vps.ovh.net:8080/39Emilrashkov@/Rashkovemil/290
-#EXTINF:0,beIN SP0RT 4 
-http://vps-29faf38e.vps.ovh.net:8080/39Emilrashkov@/Rashkovemil/291
-#EXTINF:0,beIN SP0RT 5 
-http://vps-29faf38e.vps.ovh.net:8080/39Emilrashkov@/Rashkovemil/117043
-#EXTINF:0,Tabii Spor
-http://vps-29faf38e.vps.ovh.net:8080/39Emilrashkov@/Rashkovemil/458357
-#EXTINF:0,Tabii Spor 1 
-http://vps-29faf38e.vps.ovh.net:8080/39Emilrashkov@/Rashkovemil/429633
-#EXTINF:0,Tabii Spor 2 
-http://vps-29faf38e.vps.ovh.net:8080/39Emilrashkov@/Rashkovemil/429634
-#EXTINF:0,Tabii Spor 3 
-http://vps-29faf38e.vps.ovh.net:8080/39Emilrashkov@/Rashkovemil/429635
-#EXTINF:0,Tabii Spor 4 
-http://vps-29faf38e.vps.ovh.net:8080/39Emilrashkov@/Rashkovemil/429636
-#EXTINF:0,Tabii Spor 5 
-http://vps-29faf38e.vps.ovh.net:8080/39Emilrashkov@/Rashkovemil/429637
-#EXTINF:0,Tabii Spor 6 
-http://vps-29faf38e.vps.ovh.net:8080/39Emilrashkov@/Rashkovemil/429638
+#EXTINF:0,beINSport 1 FHD TR
+#EXTVLCOPT:network-caching=1000
+http://megaott.live:8080/nHmU6ThcjyqR/bSgSskTVz8rZ/3887
+#EXTINF:0,beINSport 1 HD TR
+#EXTVLCOPT:network-caching=1000
+http://megaott.live:8080/nHmU6ThcjyqR/bSgSskTVz8rZ/3888
+#EXTINF:0,BEIN SPORTS 1 FHD 50FPS TR
+#EXTVLCOPT:network-caching=1000
+http://megaott.live:8080/nHmU6ThcjyqR/bSgSskTVz8rZ/3889
+#EXTINF:0,beINSport 2 HD TR
+#EXTVLCOPT:network-caching=1000
+http://megaott.live:8080/nHmU6ThcjyqR/bSgSskTVz8rZ/3890
+#EXTINF:0,beINSport 3 HD TR
+#EXTVLCOPT:network-caching=1000
+http://megaott.live:8080/nHmU6ThcjyqR/bSgSskTVz8rZ/3891
+#EXTINF:0,beINSport 4 HD TR
+#EXTVLCOPT:network-caching=1000
+http://megaott.live:8080/nHmU6ThcjyqR/bSgSskTVz8rZ/3892
+#EXTINF:0,beINSports Max 1 HD TR
+#EXTVLCOPT:network-caching=1000
+http://megaott.live:8080/nHmU6ThcjyqR/bSgSskTVz8rZ/3893
+#EXTINF:0,beINSports Max 1 FHD TR
+#EXTVLCOPT:network-caching=1000
+http://megaott.live:8080/nHmU6ThcjyqR/bSgSskTVz8rZ/3894
+#EXTINF:0,beINSports Max 2 HD TR
+#EXTVLCOPT:network-caching=1000
+http://megaott.live:8080/nHmU6ThcjyqR/bSgSskTVz8rZ/3895
+#EXTINF:0,EXXEN SPORT 1 HD TR
+#EXTVLCOPT:network-caching=1000
+http://megaott.live:8080/nHmU6ThcjyqR/bSgSskTVz8rZ/3896
+#EXTINF:0,EXXEN SPORT 3 HD TR
+#EXTVLCOPT:network-caching=1000
+http://megaott.live:8080/nHmU6ThcjyqR/bSgSskTVz8rZ/3897
+#EXTINF:0,EXXEN SPORT 2 HD TR
+#EXTVLCOPT:network-caching=1000
+http://megaott.live:8080/nHmU6ThcjyqR/bSgSskTVz8rZ/3898
+#EXTINF:0,EXXEN SPORT 4 HD TR
+#EXTVLCOPT:network-caching=1000
+http://megaott.live:8080/nHmU6ThcjyqR/bSgSskTVz8rZ/3899
+#EXTINF:0,TiviBu Sport 1 HD TR
+#EXTVLCOPT:network-caching=1000
+http://megaott.live:8080/nHmU6ThcjyqR/bSgSskTVz8rZ/3900
+#EXTINF:0,TiviBu Sport 2 HD TR
+#EXTVLCOPT:network-caching=1000
+http://megaott.live:8080/nHmU6ThcjyqR/bSgSskTVz8rZ/3901
+#EXTINF:0,TiviBu Sport 3 HD TR
+#EXTVLCOPT:network-caching=1000
+http://megaott.live:8080/nHmU6ThcjyqR/bSgSskTVz8rZ/3902
+#EXTINF:0,Saran Sport HD TR
+#EXTVLCOPT:network-caching=1000
+http://megaott.live:8080/nHmU6ThcjyqR/bSgSskTVz8rZ/3903
+#EXTINF:0,Smart Sport 1 HD TR
+#EXTVLCOPT:network-caching=1000
+http://megaott.live:8080/nHmU6ThcjyqR/bSgSskTVz8rZ/3904
+#EXTINF:0,Smart Sport 2 HD TR
+#EXTVLCOPT:network-caching=1000
+http://megaott.live:8080/nHmU6ThcjyqR/bSgSskTVz8rZ/3905
+#EXTINF:0,S Sports TV TR
+#EXTVLCOPT:network-caching=1000
+http://megaott.live:8080/nHmU6ThcjyqR/bSgSskTVz8rZ/3906
